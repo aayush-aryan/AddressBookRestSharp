@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "firstname": "Aayush",
+      "lastname": "Singh",
+      "phoneNo": "9999999999",
+      "address": "LaxmiNagar",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zip": "800300",
+      "email": "aayush@gmail.com"
+    },
+    {
+      "id": 2,
+      "firstname": "Aryan",
+      "lastname": "Singh",
+      "phoneNo": "9123456780",
+      "address": "Noida",
+      "city": "Noida",
+      "state": "UttarPardesh",
+      "zip": "800400",
+      "email": "aryan@gmail.com"
+    },
+    {
+      "id": 3,
+      "firstname": "Jon",
+      "lastname": "Sinha",
+      "phoneNo": "1234567890",
+      "address": "Grugram",
+      "city": "Grugram",
+      "state": "Haryana",
+      "zip": "123456",
+      "email": "jon@gmail.com"
+    },
+    {
+      "id": 4,
+      "firstname": "Ankit",
+      "lastname": "Kumar",
+      "phoneNo": "9835000000",
+      "address": "Banglore",
+      "city": "Banglore",
+      "state": "Karnataka",
+      "zip": "800500",
+      "email": "ankit@gmail.com"
+    }
+  ]
+
+}
